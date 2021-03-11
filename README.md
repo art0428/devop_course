@@ -54,6 +54,13 @@
     > docker run -p 3000:3000 my-first-web
 6. 瀏覽器打入下面網址，看到Express，大功告成
     > locahost:3000
+7. 停止Container
+    > docker stop <container id or name>
+
+8. push container to docker hub
+   1. 註冊docker hub
+   2. push 
+
 
 
 
