@@ -9,17 +9,20 @@
 3. 安裝docker desktop
     > https://docs.docker.com/get-docker/
 
-4. 創造一個環境
+4. 安裝VSCODE(選擇性)
+    > https://code.visualstudio.com/download
+
+5. 創造一個環境
     > 在自己的電腦裡面創造一個資料夾，進入目錄夾
 
-5. 安裝express套件
+6. 安裝express套件
     >npm install express -g
 
-6. 快速生成express環境
+7. 快速生成express環境
     > express -e
     > npm install
 
-7. 啟動expres web server
+8. 啟動expres web server
     > npm run start
 
 
