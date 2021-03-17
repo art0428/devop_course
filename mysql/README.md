@@ -49,8 +49,11 @@ docker run -d -p 3306:3306 -v mysql:/var/lib/mysql --name mysql8 mysql/mysql-ser
 docker stop mysql8
 docker rm mysql8
 docker volume ls
+docker inspect <volume name>
 ```
 8. 用修改的密碼檢查一下是否還可以進入
+
+
 
 
 

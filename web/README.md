@@ -60,6 +60,7 @@
 
 9. 增加一個volume綁在host path上面
     > docker run --name web -v "$(pwd)"/target:/app/target my-first-web
+windows 把$(pwd)改成%cd%
 
 
 
