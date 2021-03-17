@@ -37,7 +37,7 @@
 6. 使用Kubernetes做web server clusting(1hr)
 
 
-##Docker的開始...
+##Docker的開始...create a web server
 1. 專寫Dockerfile
 
 2. 把程式包成image
