@@ -55,6 +55,8 @@ docker inspect <volume name>
 
 
 
+Grant all privileges on *.* TO 'user'@'%'
+
 
 
 
